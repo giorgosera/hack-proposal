@@ -1,0 +1,69 @@
+\documentclass[a4paper,11pt]{report}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+
+\title{HackCyprus 2012 - Event Proposal}
+\author{Cypriot Enterprise Link}
+
+\begin{document}
+
+\maketitle
+
+%Chapter 1
+\chapter{Introduction}
+\section{Cypriot Enterprise Link}
+The Cypriot Enterprise Link (CEL) is a fresh youth-led organization aimed to connect and support the Cypriot entrepreneurial talent in order to form a local and a global entrepreneurial network supported by events, meet-ups, workshops and projects. 
+
+CEL was created in late 2011, by Michael Tyrimos, Angelos Perdios and Michael Hadjijoseph, andwas soon reinforced and reinvented by a group of ambitious and talented young Cypriots, who joined the team on a volunteer basis. Our team, which now counts 10 members in Cyprus, UK and Greece, consists of students, entrepreneurs, developers and industry experts. 
+
+As a result of our diverse team, CEL keeps close ties with universities such as Cambridge, Imperial College and Harvard, as well as similar initiatives/organizations such as NACUE and Entrepreneur First in the UK; Start Up Live Athens in Greece; and of course TEDxNicosia and other Cyprus-based counter parts, which now form a roundtable in support of entrepreneurship in Cyprus. Our boundaries are therefore not limited to Cyprus, but extend to young talented Cypriots across the world.
+
+Although we don’t have a legal formation yet, we are making our impact in the following ways:
+\begin{enumerate}
+  \item By creating synergies between Cypriot entrepreneurs, via informal meet ups andnetworking sessions, which have so far launched in Cyprus, the UK and soon in Greece. 
+  \item Via our Facebook page and online communications, which led to the involvement of several individuals, who came in support of our cause.
+  \item Via our planned events and topic-specific workshops (e.g: social media, intellectual property).
+  \item Via our upcoming blog and featured stories on Cypriot entrepreneurs, which can inspire the efforts of others. 
+\end{enumerate}
+
+In this manner CEL attempts to raise a cultural awareness in entrepreneurship in Cyprus, thereby contributing to the construction of a wider ecosystem, comprising of angel investors, incubators and enterprise competitions. Although we are a long way from our target, we are taking consistent steps towards materializing our goal. Recent articles in the US magazine Inc (titled: Is this Paradise for Entrepreneurs?) and Cyprus Mail (titled: Growing ideas, growing business), are testament to the determination and coordination of CEL and its partners over the course of the last few months.
+
+As part of CEL’s cultural awareness campaign, CEL will be dedicating a vast part of its dynamic on the following areas:
+\begin{itemize}
+  \item The Hack Cyprus initiative, for the first ever hackathon weekend in Cyprus.
+  \item The Women in Entrepreneurship initiative, featuring distinguished female entrepreneurs who will share their personal stories on setting up their own businesses and giving flesh to their ideas in Cyprus.
+  \item The CELLs, geo-centric network nodes of Cypriot Enterprise Link across the globe. 
+\end{itemize}
+
+We are looking for further support by established organizations and individuals that are innovative, open-minded and forward-looking in order to help us realize our goal.
+
+\section{Hack Cyprus}
+Similarly to many initiatives in other countries, Hack Cyprus aims to bring the tech community on the island together. At the moment the community seems to be fragmented and collaboration between people is either limited or non-existent. We decided to create this initiative to enable like-minded people to share and exchange ideas related to technology and innovation. 
+
+The long-term vision of this initiative is:
+\begin{itemize}
+  \item Foster a community of like-minded people wholove technology and innovation.
+  \item Create synergies between them.
+  \item Inspire young Cypriot techies to pursue their dreams.  
+\end{itemize}
+
+One of our first steps was the creation of a Facebook group where we invited young Cypriots who are passionate about technology to share their ideas or ask questions to be answered by fellow hackers. Initially, the group was small but soon enough it grew beyond our expectations proving that there is a need for a central hub for hackers to communicate and collaborate.
+
+Following the success of the Facebook group our team decided to organise a hackathon, which in a nutshell is an event where engineers, designers & ideators come together to intensively and collaboratively build projects over a short amount of time.In the next pages we will explain in more detail the goals, the structure and the value of this event to the Cypriot tech community.
+
+
+%Chapter 2
+\chapter{HackCyprus 2012 - The first ever hackathon in Cyprus}
+\section{Introduction}
+\section{Objectives}
+\section{Logistics - Location, dates and attendance}
+\section{Theme}
+\section{Mentors and judges}
+\section{Prizes}
+\section{Provisional schedule}
+\section{Provisional schedule}
+\section{Advertising campaign}
+\section{Sponsors}
+
+\end{document}
