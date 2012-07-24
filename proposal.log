@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.17)  23 JUL 2012 20:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.17)  23 JUL 2012 23:13
 entering extended mode
  %&-line parsing enabled.
 **proposal.tex
@@ -405,6 +405,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 86--92
 
  []
 
+
+Overfull \hbox (52.12506pt too wide) in paragraph at lines 99--113
+ [][] 
+ []
+
 [6]
 Chapter 2.
 
@@ -436,7 +441,7 @@ Here is how much of TeX's memory you used:
  4720 multiletter control sequences out of 15000+50000
  68523 words of font info for 49 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,22p,777b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,8n,22p,1133b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{
 /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pub
 lic/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
@@ -445,7 +450,7 @@ e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
 fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1
 /public/lm/lmsy10.pfb>
-Output written on proposal.pdf (10 pages, 220146 bytes).
+Output written on proposal.pdf (10 pages, 220486 bytes).
 PDF statistics:
  73 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
