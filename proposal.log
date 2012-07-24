@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.17)  23 JUL 2012 23:13
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.7.17)  24 JUL 2012 22:55
 entering extended mode
  %&-line parsing enabled.
 **proposal.tex
@@ -311,22 +311,33 @@ File: pdftex.def 2010/03/12 v0.04p Graphics/color for pdfTeX
 (/usr/share/texmf-texlive/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box26
+)
+(/usr/share/texmf-texlive/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip43
+\f@ncyO@elh=\skip44
+\f@ncyO@erh=\skip45
+\f@ncyO@olh=\skip46
+\f@ncyO@orh=\skip47
+\f@ncyO@elf=\skip48
+\f@ncyO@erf=\skip49
+\f@ncyO@olf=\skip50
+\f@ncyO@orf=\skip51
 ) (./proposal.aux)
 \openout1 = `proposal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 12.
 
 (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -343,40 +354,41 @@ File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \MPscratchDim=\dimen106
 \MPnumerator=\count93
 \everyMPtoPDFconversion=\toks18
-)
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 13.
- (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
+) <cel.jpg, id=1, 803.0pt x 351.3125pt>
+File: cel.jpg Graphic file (type jpg)
+ <use cel.jpg>
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 26.
+
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 13.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 26.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 13.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 26.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 13.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 26.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 13.
+(Font)              <10.95> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 13.
+(Font)              <8> on input line 26.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 13.
+(Font)              <6> on input line 26.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./proposal.toc
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 2.
-)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./cel.jpg>] (./proposal.to
+c)
 \tf@toc=\write3
 \openout3 = `proposal.toc'.
 
@@ -385,74 +397,90 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 ]
 Chapter 1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 20.
+(Font)              <9> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 20.
+(Font)              <5> on input line 47.
 [2
 
-] [3] [4]
-Underfull \hbox (badness 10000) in paragraph at lines 75--76
+]
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[3] [4]
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--85
+Underfull \hbox (badness 10000) in paragraph at lines 108--116
 
  []
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 86--92
+Underfull \hbox (badness 10000) in paragraph at lines 117--123
 
  []
 
 
-Overfull \hbox (52.12506pt too wide) in paragraph at lines 99--113
+Overfull \hbox (52.12506pt too wide) in paragraph at lines 130--144
  [][] 
  []
 
 [6]
 Chapter 2.
-
-Overfull \hbox (2.71764pt too wide) in paragraph at lines 127--128
-\T1/lmr/m/n/10.95 meet ups and-net-work-ing ses-sions, which have so far launch
-ed in Cyprus,
- []
-
 [7
 
 ]
-Overfull \hbox (7.00223pt too wide) in paragraph at lines 133--134
+Overfull \hbox (7.00223pt too wide) in paragraph at lines 164--165
 []\T1/lmr/m/n/10.95 In this man-ner CEL at-tempts to raise a cul-tural aware-ne
 ss in en-trepreneur-
  []
 
-LaTeX Font Info:    Try loading font information for OMS+lmr on input line 137.
+LaTeX Font Info:    Try loading font information for OMS+lmr on input line 168.
 
 (/usr/share/texmf/tex/latex/lm/omslmr.fd
 File: omslmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 137.
- [8] [9] (./proposal.aux) ) 
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 168.
+ [8]
+Overfull \hbox (20.3897pt too wide) in paragraph at lines 185--186
+\T1/lmr/m/n/10.95 (https://www.facebook.com/groups/316689918423330/) where we i
+n-vited young
+ []
+
+[9]
+Chapter 3.
+
+Overfull \hbox (74.27547pt too wide) in paragraph at lines 202--213
+ [][] 
+ []
+
+[10
+
+] [11] [12] [13] (./proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 1559 strings out of 495061
- 18804 string characters out of 1182621
- 65943 words of memory out of 3000000
- 4720 multiletter control sequences out of 15000+50000
- 68523 words of font info for 49 fonts, out of 3000000 for 9000
+ 1684 strings out of 495061
+ 20094 string characters out of 1182621
+ 68826 words of memory out of 3000000
+ 4839 multiletter control sequences out of 15000+50000
+ 66161 words of font info for 46 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 25i,8n,22p,1133b,214s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathsy.enc}{
-/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/type1/pub
-lic/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></usr/shar
-e/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/public/lm
-/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr17.pfb></usr/share/texmf/
-fonts/type1/public/lm/lmr6.pfb></usr/share/texmf/fonts/type1/public/lm/lmr8.pfb
-></usr/share/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1
-/public/lm/lmsy10.pfb>
-Output written on proposal.pdf (10 pages, 220486 bytes).
+ 25i,10n,43p,779b,259s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-math
+sy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}</usr/share/texmf/fonts/t
+ype1/public/lm/lmbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb></
+usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/p
+ublic/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr6.pfb></usr/share
+/texmf/fonts/type1/public/lm/lmr8.pfb></usr/share/texmf/fonts/type1/public/lm/l
+mr9.pfb></usr/share/texmf/fonts/type1/public/lm/lmri12.pfb></usr/share/texmf/fo
+nts/type1/public/lm/lmsy10.pfb>
+Output written on proposal.pdf (14 pages, 231522 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 87 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
